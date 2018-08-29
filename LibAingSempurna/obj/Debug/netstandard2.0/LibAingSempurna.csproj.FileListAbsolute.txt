@@ -1,0 +1,9 @@
+c:\users\agung nugraha\source\repos\LibAingSempurna\LibAingSempurna\bin\Debug\netstandard2.0\LibAingSempurna.deps.json
+c:\users\agung nugraha\source\repos\LibAingSempurna\LibAingSempurna\bin\Debug\netstandard2.0\LibAingSempurna.dll
+c:\users\agung nugraha\source\repos\LibAingSempurna\LibAingSempurna\bin\Debug\netstandard2.0\LibAingSempurna.pdb
+c:\users\agung nugraha\source\repos\LibAingSempurna\LibAingSempurna\obj\Debug\netstandard2.0\LibAingSempurna.csprojAssemblyReference.cache
+c:\users\agung nugraha\source\repos\LibAingSempurna\LibAingSempurna\obj\Debug\netstandard2.0\LibAingSempurna.csproj.CoreCompileInputs.cache
+c:\users\agung nugraha\source\repos\LibAingSempurna\LibAingSempurna\obj\Debug\netstandard2.0\LibAingSempurna.AssemblyInfoInputs.cache
+c:\users\agung nugraha\source\repos\LibAingSempurna\LibAingSempurna\obj\Debug\netstandard2.0\LibAingSempurna.AssemblyInfo.cs
+c:\users\agung nugraha\source\repos\LibAingSempurna\LibAingSempurna\obj\Debug\netstandard2.0\LibAingSempurna.dll
+c:\users\agung nugraha\source\repos\LibAingSempurna\LibAingSempurna\obj\Debug\netstandard2.0\LibAingSempurna.pdb
